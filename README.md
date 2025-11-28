@@ -73,7 +73,7 @@ The goal is to train a Logistic Regression model that can classify whether a stu
 1. Clone the repository:
 
    ```
-   git clone <your-repo-url>
+   git clone <https://github.com/Lokesh-padhanaya/End-to-end-machine-learning-project.git>
    ```
 2. Open the notebook in **Google Colab** or local Jupyter.
 3. Install required libraries:

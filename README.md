@@ -48,7 +48,7 @@ The goal is to train a Logistic Regression model that can classify whether a stu
 
 ---
 
-## 🗂️ Files Included
+## Files Included
 
 * `placement.csv` — Dataset
 * `model.pkl` — Saved ML model
@@ -57,7 +57,7 @@ The goal is to train a Logistic Regression model that can classify whether a stu
 
 ---
 
-## 📊 Libraries Used
+## Libraries Used
 
 * NumPy
 * Pandas
@@ -68,7 +68,7 @@ The goal is to train a Logistic Regression model that can classify whether a stu
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 1. Clone the repository:
 
@@ -86,7 +86,7 @@ The goal is to train a Logistic Regression model that can classify whether a stu
 
 ---
 
-## 🧾 Model Accuracy
+## Model Accuracy
 
 Accuracy may vary slightly due to random train-test split.
 Typical accuracy: **~85–95%** depending on the split.
